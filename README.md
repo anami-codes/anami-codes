@@ -6,16 +6,18 @@ I love dating sims, farming sims, horror stories, manga and, most importantly, T
 
 Work mostly on Unity and Godot, though I like to learn about different tools and engines.
 
-Fluent in Spanish, less fluent in english.
+Fluent in Spanish, less fluent in English.
 
-> Black lives matter. Stop asian hate. Trans rights are human rights. Free Palestine. Ni una menos. 
+> “Fear is a strange soil. Mainly it grows obedience like corn, which grows in rows and makes weeding easy. But sometimes it grows the potatoes of defiance, which flourish underground.”
+> 
+> — Small Gods, Terry Pratchett
 
 ***
 
 #### 💙 Stuff I'm working on~
-- An android puzzle game about archaeology
+- Building my portafolio
 - A Harvest Moon/Story of Seasons-like farming sim with hints of cosmic horror
-- An isekai comic that will never see the light of day
+- Storylines for some comics
 
 <!---
 #### 📚 Stuff I'm learning about~
@@ -34,7 +36,7 @@ Fluent in Spanish, less fluent in english.
 	- ct.js
   
 - Art software
-	- Krita
+	- Clip Studio Paint
 	- Inkscape
 	- Aseprite
 	- Blender
@@ -42,6 +44,8 @@ Fluent in Spanish, less fluent in english.
 - Other tools
 	- Obsidian
 	- Visual Studio 2019 and VS Code
+
+> Black lives matter. Stop asian hate. Trans rights are human rights. Free Palestine. Ni una menos.
 
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
