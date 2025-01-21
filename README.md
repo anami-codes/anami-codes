@@ -1,12 +1,12 @@
 ### 🐤 Hello!
-I'm Anami, a 20-something game developer from Perú currently working on starting as an indie dev, and I'm ocasionaly alive.
+I'm Anami, an almost-30 game developer from Perú currently working on kickstarting a small indie studio with some friends, and I'm ocasionaly alive.
 
 I graduated from Game Design, work as a game programmer, enjoy writing, and am co-founder of FemDevs Perú, a peruvian asociation of female game developers.
 I love dating sims, farming sims, horror stories, manga and, most importantly, Terry Pratchett.
 
 Work mostly on Unity and Godot, though I like to learn about different tools and engines.
 
-Fluent in Spanish, less fluent in English.
+I speak Spanish, and I can speak English, C#, JS and HTML.
 
 > “Fear is a strange soil. Mainly it grows obedience like corn, which grows in rows and makes weeding easy. But sometimes it grows the potatoes of defiance, which flourish underground.”
 > 
@@ -16,8 +16,9 @@ Fluent in Spanish, less fluent in English.
 
 #### 💙 Stuff I'm working on~
 - Building my portafolio
-- A Harvest Moon/Story of Seasons-like farming sim with hints of cosmic horror
+- A Rune Factory-like farming sim with hints of cosmic horror
 - Storylines for some comics
+- Making a web page!
 
 <!---
 #### 📚 Stuff I'm learning about~
