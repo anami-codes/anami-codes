@@ -6,7 +6,7 @@ I love dating sims, farming sims, horror stories, manga and, most importantly, T
 
 Work mostly on Unity and Godot, though I like to learn about different tools and engines.
 
-I speak Spanish, and I can speak English, C#, JS and HTML.
+My native language is Spanish, but I can speak English, C#, CSS, HTML and JS.
 
 > “Fear is a strange soil. Mainly it grows obedience like corn, which grows in rows and makes weeding easy. But sometimes it grows the potatoes of defiance, which flourish underground.”
 > 
